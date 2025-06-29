@@ -1,0 +1,14 @@
+{
+	"autodeskProduct":	"Fusion",
+	"type":	"addin",
+	"id":	"9255c538-3704-47a2-86d1-a8ab744de090",
+	"author":	"Autodesk",
+	"description":	{
+		"":	"演示使用Fusion API创建一个新组件，这是一个正齿轮。"
+	},
+	"version":	"",
+	"runOnStartup":	false,
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true,
+	"iconFilename": "SpurGearIcon.png"
+}
